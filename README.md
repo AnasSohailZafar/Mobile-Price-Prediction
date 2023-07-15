@@ -10,7 +10,7 @@ This project aims to predict the price range of mobile phones based on their spe
 - [Results](#results)
 - [Contributing](#contributing)
 - [License](#license)
-
+- [Contact Information](#contact-information)
 ## Introduction
 
 This project aims to predict the price range of mobile phones based on their specifications. It utilizes machine learning models, including a neural network and a decision tree, to make accurate predictions.
@@ -63,3 +63,14 @@ Contributions to this project are welcome. If you would like to contribute, plea
 
 This project is licensed under the MIT License.
 
+## Contact Information
+
+For any questions or suggestions, please feel free to reach out :
+
+Name: Anas Sohail Zafar
+
+Email: anassohailzafar@gmail.com
+
+GitHub: github.com/AnasSohailZafar
+
+Linkedin: www.linkedin.com/in/anas-sohail-zafar123
